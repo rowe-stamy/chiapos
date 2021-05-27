@@ -25,3 +25,6 @@ build
 .mypy_cache
 *.whl
 venv
+.idea/
+cmake-build-debug/
+cmake-build-release/
